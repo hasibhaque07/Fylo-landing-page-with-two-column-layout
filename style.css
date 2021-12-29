@@ -203,6 +203,9 @@ footer .socials a{
 }
 
 @media screen and (max-width: 1000px){
+    .logo img{
+        width: 100px;
+    }
     .navbar{
         position: absolute;
         background: white;
