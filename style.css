@@ -13,7 +13,7 @@ body{
     padding:0 50px;
 }
 .container p{
-    font-size: 20px;
+    font-size: 17px;
 }
 .header{
     padding: 50px 0;
@@ -70,7 +70,7 @@ body{
     border: 1px solid #bdbdbd;
     margin-right: 10px;
     width: 60%;
-    font-size: 20px;
+    font-size: 17px;
 }
 .section1 button{
     padding: 10px;
@@ -78,7 +78,7 @@ body{
     width: 30%;
     border: none;
     color: white;
-    font-size: 20px;
+    font-size: 17px;
     
 }
 .section1 button:hover{
@@ -147,7 +147,7 @@ body{
     width: 100%;
     padding: 10px 10px;
     margin-bottom: 10px;
-    font-size: 20px;
+    font-size: 17px;
 
 }
 .section3 button{
@@ -156,7 +156,7 @@ body{
     padding: 10px 0;
     border: none;
     color: white;
-    font-size: 20px;
+    font-size: 17px;
 }
 .section3 button:hover{
     
